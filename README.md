@@ -4,7 +4,7 @@ A marketing landing page built from a design spec to practice layout with
 Flexbox. One of [The Odin Project](https://www.theodinproject.com/) foundations
 exercises.
 
-> 📸 **Screenshot needed**: the full page top to bottom, or at least the hero section and the feature cards. Save to `docs/landing.png` and replace this line with `![Landing page](docs/landing.png)`.
+![Landing page](docs/landing.png)
 
 ## Run it
 
